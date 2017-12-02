@@ -1,0 +1,17 @@
+name: example_pseudopackage
+type: module
+description: Shows how a Profile/Distribution should require module sets, in this case, Contenta's RESTful modules.
+core: 8.x
+dependencies:
+  - jsonapi
+  - jsonapi_extras
+  - subrequests
+  - fieldable_path
+  - simple_oauth
+  - remote_stream_wrapper
+  - schemata
+  - openapi
+  - consumers
+  - consumer_image_styles
+  - graphql
+  - decoupled_router
