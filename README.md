@@ -2,7 +2,9 @@
 
 This is an example of how distributions should separate functionality into
 pseudo-packages. It is derived from how the Contenta profile sets up Drupal
-as a headless applicaiton.
+as a headless application.
+
+Contribute to the conversation here: https://github.com/contentacms/contenta_jsonapi/issues/232
 
 ## The problem
 
