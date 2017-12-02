@@ -32,8 +32,8 @@ important upstream (default) config changes that are related to the pseudo-packa
 
 ## Should a pseudo package have a module?
 
-Yes. A pseudo-package module provides additional functionality. As long as it
-isn't too opinionated. "Lightning Media" should not assume it is being used
+Yes a module could provide additional functionality. As long as it
+isn't too opinionated. The "Lightning Media" module should not assume it is being used
 in Lightning, it might be being used in Contenta or Thunder.
 
 ## Examples
