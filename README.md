@@ -1,7 +1,8 @@
-# Psuedo package example
+# Pseudo package example - D8 JSON API
 
 This is an example of how distributions should separate functionality into
-pseudo-packages. We have the technology.
+pseudo-packages. It is derived from how the Contenta profile sets up Drupal
+as a headless applicaiton.
 
 ## The problem
 
