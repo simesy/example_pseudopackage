@@ -18,6 +18,7 @@ of using some of these features, for a few reasons:
 - Any custom logic (eg modules) in the second profile is not accessible to Drupal
 - Profiles usually contain very specific logic which is incompatible with other profiles
 - Unrequired module dependencies of Profile B may conflict with need modules required by Profile A
+- You can't easily allow a sub-set of patches to be applied from another package
 
 For example, due to the way composer works, you can't have Lighting Media without
 Composer resolving and downloading a large suite of modules related to Lighting Layouts. (Or can you?)
