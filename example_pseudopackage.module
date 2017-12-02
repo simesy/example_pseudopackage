@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * @file
+ * Any custom code should provide generic glue that didn't interfere with
+ * a distribution using the code.
+ */
